@@ -34,5 +34,5 @@ Check out the deployed app here: [Note Taker](https://whispering-depths-89211.he
 
 ### Screenshots
 
-![screenshot](https://github.com/saumilkt/note-taker/blob/main/public/assets/images/Screenshot_01.jpg)
-![screenshot](https://github.com/saumilkt/note-taker/blob/main/public/assets/images/Screenshot_02.jpg)
+![screenshot](./public/assets/images/Screenshot_01.jpg)
+![screenshot](./public/assets/images/Screenshot_02.jpg)
